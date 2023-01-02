@@ -1,0 +1,52 @@
+----- Student Information -----
+Student Name: Matt Favela
+Student ID: 1
+Student Level: Sophomore
+Student Major: Data Science
+Student GPA: 4
+Student's Faculty Advisor ID: 1
+-------------------------------
+
+----- Student Information -----
+Student Name: John Appleseed
+Student ID: 2
+Student Level: Senior
+Student Major: Computer Science
+Student GPA: 3.75
+Student's Faculty Advisor ID: 1
+-------------------------------
+
+----- Student Information -----
+Student Name: Adam James
+Student ID: 3
+Student Level: Freshman
+Student Major: Data Science
+Student GPA: 2
+Student's Faculty Advisor ID: 2
+-------------------------------
+
+----- Student Information -----
+Student Name: Chris Ton
+Student ID: 4
+Student Level: Sophomore
+Student Major: Electrical Engineering
+Student GPA: 3.5
+Student's Faculty Advisor ID: 2
+-------------------------------
+
+----- Faculty Information -----
+Faculty Name: Erik Linstead
+Faculty ID: 1
+Faculty Level: Coding God
+Faculty Department: Fowler School Of Engineering
+Faculty's Advisees Id's: 
+-------------------------------
+
+----- Faculty Information -----
+Faculty Name: Elizabeth Stevens
+Faculty ID: 2
+Faculty Level: Coding Goddess
+Faculty Department: Fowler School Of Engineering
+Faculty's Advisees Id's: 
+-------------------------------
+
